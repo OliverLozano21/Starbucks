@@ -8,5 +8,3 @@ Este proyecto es un ejercicio basico de HTML con CSS para aprender a modificar l
 -Enter el uso de elementos
 -Agregar propiedades y estilos
 
-# Codigo
-![Vista Previa](https://imgur.com/a/Sj75ktY)
